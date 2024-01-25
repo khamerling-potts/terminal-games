@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/Users/kyrahamerling-potts/Documents/GitHub/tictactoe/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/tictactoe.dir/GameBase.cpp.o -c /Users/kyrahamerling-potts/Documents/GitHub/tictactoe/GameBase.cpp",
+  "file": "/Users/kyrahamerling-potts/Documents/GitHub/tictactoe/GameBase.cpp",
+  "output": "CMakeFiles/tictactoe.dir/GameBase.cpp.o"
+},
+{
+  "directory": "/Users/kyrahamerling-potts/Documents/GitHub/tictactoe/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/tictactoe.dir/GameBoard.cpp.o -c /Users/kyrahamerling-potts/Documents/GitHub/tictactoe/GameBoard.cpp",
+  "file": "/Users/kyrahamerling-potts/Documents/GitHub/tictactoe/GameBoard.cpp",
+  "output": "CMakeFiles/tictactoe.dir/GameBoard.cpp.o"
+},
+{
+  "directory": "/Users/kyrahamerling-potts/Documents/GitHub/tictactoe/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/tictactoe.dir/GamePiece.cpp.o -c /Users/kyrahamerling-potts/Documents/GitHub/tictactoe/GamePiece.cpp",
+  "file": "/Users/kyrahamerling-potts/Documents/GitHub/tictactoe/GamePiece.cpp",
+  "output": "CMakeFiles/tictactoe.dir/GamePiece.cpp.o"
+},
+{
+  "directory": "/Users/kyrahamerling-potts/Documents/GitHub/tictactoe/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/tictactoe.dir/GeneralSource.cpp.o -c /Users/kyrahamerling-potts/Documents/GitHub/tictactoe/GeneralSource.cpp",
+  "file": "/Users/kyrahamerling-potts/Documents/GitHub/tictactoe/GeneralSource.cpp",
+  "output": "CMakeFiles/tictactoe.dir/GeneralSource.cpp.o"
+},
+{
+  "directory": "/Users/kyrahamerling-potts/Documents/GitHub/tictactoe/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/tictactoe.dir/GomokuGame.cpp.o -c /Users/kyrahamerling-potts/Documents/GitHub/tictactoe/GomokuGame.cpp",
+  "file": "/Users/kyrahamerling-potts/Documents/GitHub/tictactoe/GomokuGame.cpp",
+  "output": "CMakeFiles/tictactoe.dir/GomokuGame.cpp.o"
+},
+{
+  "directory": "/Users/kyrahamerling-potts/Documents/GitHub/tictactoe/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/tictactoe.dir/lab3.cpp.o -c /Users/kyrahamerling-potts/Documents/GitHub/tictactoe/lab3.cpp",
+  "file": "/Users/kyrahamerling-potts/Documents/GitHub/tictactoe/lab3.cpp",
+  "output": "CMakeFiles/tictactoe.dir/lab3.cpp.o"
+},
+{
+  "directory": "/Users/kyrahamerling-potts/Documents/GitHub/tictactoe/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/tictactoe.dir/lab4.cpp.o -c /Users/kyrahamerling-potts/Documents/GitHub/tictactoe/lab4.cpp",
+  "file": "/Users/kyrahamerling-potts/Documents/GitHub/tictactoe/lab4.cpp",
+  "output": "CMakeFiles/tictactoe.dir/lab4.cpp.o"
+},
+{
+  "directory": "/Users/kyrahamerling-potts/Documents/GitHub/tictactoe/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/tictactoe.dir/TicTacToe.cpp.o -c /Users/kyrahamerling-potts/Documents/GitHub/tictactoe/TicTacToe.cpp",
+  "file": "/Users/kyrahamerling-potts/Documents/GitHub/tictactoe/TicTacToe.cpp",
+  "output": "CMakeFiles/tictactoe.dir/TicTacToe.cpp.o"
+}
+]

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-clang++"
+	BuildStamp="20230813-1616-Experimental"
+	Name="Kyras-MacBook-Pro.local"
+	Generator="ctest-3.27.2"
+	CompilerName="/usr/bin/clang++"
+	CompilerVersion="14.0.3.14030022"
+	OSName="macOS"
+	Hostname="Kyras-MacBook-Pro.local"
+	OSRelease="13.4"
+	OSVersion="22F66"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="142"
+	ProcessorCacheSize="32768"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="4096"
+	TotalPhysicalMemory="16384"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="3300"
+	>
+	<Testing>
+		<StartDateTime>Aug 13 14:20 EDT</StartDateTime>
+		<StartTestTime>1691950817</StartTestTime>
+		<TestList/>
+		<EndDateTime>Aug 13 14:20 EDT</EndDateTime>
+		<EndTestTime>1691950817</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
