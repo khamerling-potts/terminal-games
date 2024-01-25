@@ -13,6 +13,8 @@ This C++ terminal application allows you to play TicTacToe or Gomoku. It was con
 
 # TicTacToe demo
 
-![tictactoe gif](https://github.com/khamerling-potts/tictactoe/blob/main/gomoku%20gif.gif)
+![tictactoe gif](https://github.com/khamerling-potts/tictactoe/blob/main/tictactoe%20gif.gif)
 
 # Gomoku demo
+
+![gomoku gif](https://github.com/khamerling-potts/tictactoe/blob/main/gomoku%20gif.gif)
